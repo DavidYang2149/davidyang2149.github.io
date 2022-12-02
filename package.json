@@ -1,0 +1,23 @@
+{
+  "name": "davidyang2149.github.io",
+  "version": "1.0.0",
+  "description": "data generator",
+  "main": "generateData.js",
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo no test found"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidyang2149/davidyang2149.github.io.git"
+  },
+  "author": "Davidyang2149",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidyang2149/davidyang2149.github.io/issues"
+  },
+  "homepage": "https://github.com/davidyang2149/davidyang2149.github.io#readme"
+}
