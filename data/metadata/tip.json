@@ -1,11 +1,11 @@
 {
  "type": "wiki",
- "title": "서적",
+ "title": "팁",
  "summary": "",
  "parent": "index",
- "url": "/wiki/book",
+ "url": "/wiki/tip",
  "updated": "2022-12-06 21:35:00 +0900",
  "children": [
-  "book/javascript-coding-skill"
+  "tip/localtunnel"
  ]
 }

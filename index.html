@@ -21,6 +21,7 @@ regenerate: true
         <a href="/blog/">블로그</a>
         /
         <a href="/tag/">태그</a>
+        <p>단축키 도움말: ctrl + h</p>
     </div>
     <div class="contact">
 {% if site.github_username %}
@@ -42,7 +43,7 @@ regenerate: true
 {% for doc in documents limit: 30 %}
     {% if doc.public == true and doc.title != 'wiki'%}
         <li>
-            <div>
+            <div class="post-item">
                 <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">
                     <div class="post-meta">
                         {{ doc.updated | date: "%Y.%m.%d" }}
