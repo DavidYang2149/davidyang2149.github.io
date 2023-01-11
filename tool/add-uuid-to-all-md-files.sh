@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-MD_FILES=`find ./_posts -name "*.md"`
+# MD_FILES=`find ./_posts -name "*.md"`
+MD_FILES=`find ./_wiki -name "*.md"`
 
 for FILE in $MD_FILES; do
     UUID=`uuidgen`
