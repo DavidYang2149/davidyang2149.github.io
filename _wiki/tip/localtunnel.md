@@ -3,7 +3,8 @@ layout  : wiki
 title   : localhost 공유하기 - localtunnel
 date    : 2023-01-10 19:15:00 +0900
 updated : 2023-01-10 19:15:00 +0900
-tag     : 
+tag     : tip
+resource: 70/0E970F-8726-41F8-A36B-34424B007188
 toc     : true
 public  : true
 parent  : tip

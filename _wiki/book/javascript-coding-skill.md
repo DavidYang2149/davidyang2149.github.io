@@ -3,7 +3,8 @@ layout  : wiki
 title   : 자바스크립트 코딩의 기술
 date    : 2022-12-06 21:35:00 +0900
 updated : 2022-12-06 21:35:00 +0900
-tag     : 
+tag     : book
+resource: 3B/3620EC-99CE-4E3A-BCC3-FFBC22CDF20D
 toc     : true
 public  : true
 parent  : book
