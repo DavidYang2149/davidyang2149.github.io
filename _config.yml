@@ -38,16 +38,16 @@ collections:
 # Comment Service
 giscus:
   repo: davidyang2149/davidyang2149.github.io
-  repo_id: davidyang2149
+  repo_id: R_kgDOIi0gLg
   category: Announcements
-  category_id: announcements
+  category_id: DIC_kwDOIi0gLs4CThuy
 
 google_analytics:
   ua: G-19R92080ZM
-  encrypted_ua: THIS-IS-SAMPLE-VALUE
+  encrypted_ua: 4ea6b4b353f6a470e8c2697cPbkRUQTRUBsQvMY0NSk6BqwuBQGWDkEYsmoF3w==
 
 google_adsense:
-  client: ca-pub-3675948545737694
+  client: SAMPLE-VALUE
 
 blame: "https://github.com/DavidYang2149/davidyang2149.github.io/blame/main/_wiki"
 edit: "https://github.com/DavidYang2149/davidyang2149.github.io/edit/main/_wiki"

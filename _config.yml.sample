@@ -38,7 +38,7 @@ collections:
 
 # Comment Service
 giscus:
-  repo: davidyang2149/johngrib.github.io
+  repo: davidyang2149/davidyang2149.github.io
   repo_id: SAMPLE-VALUE
   category: Announcements
   category_id: SAMPLE-VALUE
