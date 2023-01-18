@@ -1,0 +1,11 @@
+{
+ "type": "wiki",
+ "title": "리액트",
+ "summary": "",
+ "parent": "index",
+ "url": "/wiki/react",
+ "updated": "2023-01-18 19:45:00 +0900",
+ "children": [
+  "react/functional-component-vs-function-component"
+ ]
+}
