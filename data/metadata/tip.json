@@ -6,6 +6,7 @@
  "url": "/wiki/tip",
  "updated": "2022-12-06 21:35:00 +0900",
  "children": [
-  "tip/localtunnel"
+  "tip/localtunnel",
+  "tip/turbo-console-log"
  ]
 }
