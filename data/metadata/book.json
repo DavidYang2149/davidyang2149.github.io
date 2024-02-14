@@ -6,6 +6,7 @@
  "url": "/wiki/book",
  "updated": "2022-12-06 21:35:00 +0900",
  "children": [
+  "book/codefactory-flutter-01-03",
   "book/javascript-coding-skill"
  ]
 }
