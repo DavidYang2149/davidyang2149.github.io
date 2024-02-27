@@ -1,0 +1,11 @@
+{
+ "type": "wiki",
+ "title": "플러터",
+ "summary": "",
+ "parent": "index",
+ "url": "/wiki/flutter",
+ "updated": "2024-02-26 21:35:00 +0900",
+ "children": [
+  "flutter/flutter"
+ ]
+}
